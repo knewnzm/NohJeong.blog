@@ -1,8 +1,8 @@
 const siteMetadata = {
-  title: '',
-  author: '',
-  headerTitle: '',
-  description: '',
+  title: 'NohJeong devlog',
+  author: 'NohJeong',
+  headerTitle: 'NohJeong devlog',
+  description: '지식의 밑거름이 될 삽질 중',
   language: 'ko-KR',
   siteUrl: '',
   siteRepo: '',

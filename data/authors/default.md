@@ -1,5 +1,5 @@
 ---
-name: 이름
+name: njm
 avatar: /static/images/프로필사진.png
 occupation: 타이틀
 company: 컴패니

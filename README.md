@@ -13,8 +13,6 @@
 
 ---
 ## 로컬에서 실행하기
-
-```bash
 # Repository 복제하기
 $ git clone https://github.com/GoRyangJu/blog.git
 
